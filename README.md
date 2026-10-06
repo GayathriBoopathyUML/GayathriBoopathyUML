@@ -146,7 +146,7 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GayathriBoopathyUML&show_icons=true&hide_border=true" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayathriBoopathyUML&layout=compact&hide_border=true" alt="Top languages" height="160"/>
-</p>
+</p> -->
