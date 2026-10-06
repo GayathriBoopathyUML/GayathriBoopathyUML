@@ -4,6 +4,9 @@
 <p align="center">
   <a href="https://gayathriboopathyuml.github.io"><img src="https://img.shields.io/badge/Portfolio-6B3FA0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/gayathri-boopathy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.researchgate.net/profile/Gayathri-Boopathy"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+  <a href="https://scholar.google.com/citations?user=7QkStewAAAAJ&hl=en&oi=sra"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://morseatuml.us/research/ar-pt/"><img src="https://img.shields.io/badge/Research_Portfolio-1D1B22?style=for-the-badge&logo=bookstack&logoColor=white" alt="Research Portfolio"/></a>
   <a href="mailto:gayathri_boopathy@student.uml.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -48,7 +51,7 @@
 
 **Accepted / in progress:** Journal of Hand Therapy (ASHT 2026) · two papers at MIT URTC 2026 (IEEE) · UAF digital-health architecture journal paper
 
-👉 Full list on my [portfolio](https://gayathriboopathyuml.github.io/#publications)
+👉 Full list: [Portfolio](https://gayathriboopathyuml.github.io/#publications) | [ResearchGate](https://www.researchgate.net/profile/Gayathri-Boopathy) | [Google Scholar](https://scholar.google.com/citations?user=7QkStewAAAAJ&hl=en&oi=sra) | [Research Portfolio](https://morseatuml.us/research/ar-pt/)
 
 ### 🏅 Honors
 
@@ -143,7 +146,7 @@
 
 ---
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GayathriBoopathyUML&show_icons=true&hide_border=true" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayathriBoopathyUML&layout=compact&hide_border=true" alt="Top languages" height="160"/>
-</p> -->
+</p>
