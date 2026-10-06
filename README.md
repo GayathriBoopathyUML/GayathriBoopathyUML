@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayathri Boopathy</h1>
-<h3 align="center">PhD Candidate in Computer Engineering @ UMass Lowell · AR/XR · AI/ML · Full-Stack</h3>
+<h3 align="center">PhD Candidate in Computer Engineering @ UMass Lowell · AR/VR/XR · AI/ML · MBSE/SysML · Full-Stack</h3>
 
 <p align="center">
   <a href="https://gayathriboopathyuml.github.io"><img src="https://img.shields.io/badge/Portfolio-6B3FA0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
