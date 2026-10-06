@@ -1,57 +1,149 @@
-- 👋 Hi, I’m Gayathri --> @GayathriBoopathyUML
-- 👀 I’m interested in --> Web development (React), Embedded, VLSI, AR (Augmented Reality) 
-- 🌱 I’m currently --> Computer Engineering, Graduate Student @UMass Lowell
-- 💞️ I’m looking to collaborate on --> full-time/internship jobs
-- 📫 How to reach me (my LinkedIn Profile)--> https://www.linkedin.com/in/gayathri-boopathy/
-- 😄 Pronouns --> She/Her (GB)
-- ⚡ Fun fact --> Chess (District Player) | Throw Ball player | Bharatanatyam Dancer | Art Designer (arabic, bridal, floral designs)
+<h1 align="center">Hi 👋, I'm Gayathri Boopathy</h1>
+<h3 align="center">PhD Candidate in Computer Engineering @ UMass Lowell · AR/XR · AI/ML · Full-Stack</h3>
 
-<!---
-GayathriBoopathyUML/GayathriBoopathyUML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<br>
-🌸 languages and tools i've worked with
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://javascript.info/js" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.ni.com/en-us/shop/product/labview.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="LabView" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> </a> 
-  <a href="https://react-bootstrap.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactbootstrap/reactbootstrap-original.svg" alt="ReactBootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> </a> 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/> </a> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="VisualStudio" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VScode" width="40" height="40"/> </a> 
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/> </a> 
-  <a href="https://android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/> </a> 
+<p align="center">
+  <a href="https://gayathriboopathyuml.github.io"><img src="https://img.shields.io/badge/Portfolio-6B3FA0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/gayathri-boopathy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gayathri_boopathy@student.uml.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-🌸 Arduino <br>
-🌸 Embedded <br>
-🌸 VLSI <br>
-🌸 Verilog / VHDL / SystemVerilog <br>
-🌸 Augmented Reality <br>
-🌸 Networks <br>
-🌸 FPGA <br>
-🌸 Data Strctures & Algorithms <br>
-🌸 Operating Systems <br>
-🌸 Web Development <br>
 
-<br> <br> <br>
-🌸 connect with me
-<a href="https://www.linkedin.com/in/gayathri-boopathy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="layla-codes" height="30" width="40" /></a>
-<br>
+---
+
+### 🙋‍♀️ About me
+
+- 🔬 Research Assistant at the **CACT Lab, UMass Lowell**, working on AR-based hand-gesture recognition, eye-gaze tracking, AI-driven interactive systems and XR spatial computing
+- 🦾 Building touchless **human–robot interaction**: controlling robotic arms with hand gestures and eye gaze over MQTT (Unity · MediaPipe · SysML/MBSE)
+- 🩺 Creator of **TheraXP**, an AI-powered gamified digital rehab platform (InnovAge Spring 2026 Fellowship)
+- 💼 3+ years as a **Full-Stack Software Developer** at Infosys Equinox (React, Node.js, Spring Boot, microservices, CI/CD)
+- 🤝 Open to research collaborations and internship / full-time opportunities
+- 😄 Pronouns: She/Her
+- ⚡ Fun facts: Chess (district player) · Throwball player · Bharatanatyam dancer · Art designer (Arabic, bridal & floral designs)
+
+### 🎓 Education
+
+| Degree | School | Years |
+|---|---|---|
+| PhD, Computer Engineering (CGPA 4.0) | University of Massachusetts Lowell | 2025 – 2030 |
+| MS, Computer Engineering, Thesis (CGPA 4.0) | University of Massachusetts Lowell | 2023 – 2025 |
+| BE, Electronics & Communication | Anna University, India | 2016 – 2020 |
+
+### 🚀 Featured projects
+
+- **TheraXP**: AR/XR + computer vision + MBSE platform for hand, eye and full-body rehabilitation
+- **Real-Time AR Object Detection**: TensorFlow + YOLO with WebSocket streaming and spatially anchored AR overlays
+- **AR Robotic Arm Control**: gesture-based control and authentication with Unity, MediaPipe and MQTT
+- **Customizable Hand Gesture Classification**: K-means adaptive thresholds personalized to user biomechanics
+- **IoT Temperature Monitoring**: Raspberry Pi Pico W + BLE with React web and React Native mobile dashboards
+- **Melanoma Detection**: CNN model (~87% accuracy) with an IoT imaging + React GUI
+- **Full-Stack Web Apps**: carpool, corporate event calendar and digital library (React, Node.js, MySQL)
+
+### 📄 Selected publications
+
+- 🏆 *Integrating Neuromorphic Sensors, Digital Twins, and MBSE Interfaces for System Validation*, **IEEE SYSCON 2026 (Best Student Paper Award)**
+- *Engineering and Health Science Collaborative Model for Assessing AR and Vision-Based Hand-Tracking Systems*, ASEE 2026
+- *Context-Aware Informatics using Model-Based Systems Engineering*, IEEE ICHI 2026
+- *Interfaces for Co-Designing Augmented Reality with Application to Digital Health and Future Work Environments*, INCOSE 2026
+- *Digital Engineering Framework with Immersive Technology (Augmented Reality)*, IEEE SYSCON 2025
+- *Hand Tracking and Gesture Classification Using AR Technology and ML Algorithms*, Master's Thesis 2025
+
+**Accepted / in progress:** Journal of Hand Therapy (ASHT 2026) · two papers at MIT URTC 2026 (IEEE) · UAF digital-health architecture journal paper
+
+👉 Full list on my [portfolio](https://gayathriboopathyuml.github.io/#publications)
+
+### 🏅 Honors
+
+- Dean's Medal, Outstanding Academic Achievement, UMass Lowell (2025)
+- InnovAge Spring 2026 Fellowship (TheraXP)
+- Professor Charlie Steele Memorial Scholarship (2024–2025)
+- SPOTLIGHT Certificate of Appreciation, Infosys Equinox
+- GHC'24 volunteer · IEEE · IEEE-HKN · Women in Engineering · SWE · WiSTEM
+
+### 🛠️ Languages & tools
+
+**Languages**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="LabVIEW" title="LabVIEW" width="40" height="40"/>
+</p>
+
+**AR / XR & AI / ML**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="40" height="40"/>
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" title="Material UI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" title="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" title="Babel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" title="Yarn" width="40" height="40"/>
+</p>
+
+**Backend**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" title="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" title="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
+</p>
+
+**Embedded & IoT**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" title="Android" width="40" height="40"/>
+</p>
+
+**DevOps & Tools**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="40" height="40"/>
+</p>
+
+**Also:** MediaPipe · Magic Leap · OpenXR · SysML · Cameo / MagicDraw · MQTT · BLE · RTOS · UART / I2C / SPI · ModelSim · Quartus · Verilog / VHDL · FPGA · LLMs & AI Agents
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GayathriBoopathyUML&show_icons=true&hide_border=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayathriBoopathyUML&layout=compact&hide_border=true" alt="Top languages" height="160"/>
+</p>
